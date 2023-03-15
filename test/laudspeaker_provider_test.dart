@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter_app_analytics/flutter_app_analytics.dart';
-import 'package:flutter_app_analytics_laudspeaker_provider/laudspeaker_provider.dart';
+import 'package:flutter_app_analytics_laudspeaker_provider/flutter_app_analytics_laudspeaker_provider.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'test_doubles.dart';
